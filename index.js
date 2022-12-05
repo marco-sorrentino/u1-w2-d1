@@ -11,7 +11,12 @@ REGOLE
  Elenca e descrivi i principali datatype in JavaScript. Prova a spiegarli come se volessi farli comprendere a un bambino.
 */
 
-/* SCRIVI QUI LA TUA RISPOSTA */
+/* I datatype su js sono di tipo: "stringa" , "numerico" , "null" , "undefined e "booleani  */
+const stringa = "nome"; // Composto da caretteri
+const numerico = 98; // Composto da numeri, possono essere sia interi che decimali
+const booleano = true; // è un dato che può essere solo o true o false, serve per interrogare e prendere una decisione
+const nullo = null; // Indica l'assenza intenzionale di un oggetto è diverso dal valore numerico 0
+const indefinito = undefined; // Indica una variabile a cui non è stato assegnato un valore oppure non è definitiva
 
 /* ESERCIZIO 2
  Crea una variable chiamata "name" e assegna ad essa il tuo nome, sotto forma di stringa.
